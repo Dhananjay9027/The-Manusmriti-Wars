@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Car
+  - Breadcrumb
+  - CinemachineTarget
+  - Bullet
+  - Car3
+  - Enemy
   layers:
   - Default
   - TransparentFX
